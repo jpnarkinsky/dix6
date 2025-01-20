@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "typescript-library-template",
+  "name": "dix6",
   "description": "",
   "packageManager": "yarn@3.4.1",
   "scripts": {

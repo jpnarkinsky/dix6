@@ -8,25 +8,25 @@ This is a template repository for developing libraries for Browser/Node.js with 
 
 Rewrite the following items in package.json in each folder as appropriate.
 
-* name
-* description
-* keywords
-* repository
-* author
-* bugs
-* homepage
+- name
+- description
+- keywords
+- repository
+- author
+- bugs
+- homepage
 
 ### Step 2
 
 Next, rewrite the signature and number of years in the LICENSE file.
 
 ```
-Copyright (c) 20xx your_name
+Copyright (c) 2025 Patrick Narkinsky
 ```
 
 ### Step3
 
-Rewrite the [repo option](./.changeset/config.json) in Changeset.  
+Rewrite the [repo option](./.changeset/config.json) in Changeset.
 
 ```
 "changelog": [

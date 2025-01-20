@@ -1,4 +1,4 @@
-# @typescript-library-template/utilities
+# @dix6/utilities
 
 ## 1.0.0
 

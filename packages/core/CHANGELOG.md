@@ -1,4 +1,4 @@
-# @typescript-library-template/core
+# @dix6/core
 
 ## 1.0.0
 

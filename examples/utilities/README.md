@@ -1,1 +1,1 @@
-# @typescript-library-template/utilities example
+# @dix6/utilities example

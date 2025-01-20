@@ -1,4 +1,4 @@
-import { print } from '@typescript-library-template/utilities';
+import { print } from '@dix6/utilities';
 
 export const corePrint = () => {
   print('core');

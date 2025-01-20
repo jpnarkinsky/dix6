@@ -1,3 +1,3 @@
-import { print } from '@typescript-library-template/utilities';
+import { print } from '@dix6/utilities';
 
 print('utilities');

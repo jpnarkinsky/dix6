@@ -1,1 +1,1 @@
-# @typescript-library-template/core
+# @dix6/core

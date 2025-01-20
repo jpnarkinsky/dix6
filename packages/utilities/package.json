@@ -1,10 +1,10 @@
 {
-  "name": "@typescript-library-template/utilities",
+  "name": "@dix6/utilities",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/typescript-library-template-utilities.cjs.js",
-  "module": "dist/typescript-library-template-utilities.esm.js",
-  "types": "dist/typescript-library-template-utilities.cjs.d.ts",
+  "main": "dist/dix6-utilities.cjs.js",
+  "module": "dist/dix6-utilities.esm.js",
+  "types": "dist/dix6-utilities.cjs.d.ts",
   "files": [
     "src",
     "dist",
@@ -12,20 +12,24 @@
     "README.md"
   ],
   "keywords": [
-    "typescript"
+    "typescript",
+    "opend6",
+    "d6",
+    "rpg"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/.../...git"
+    "url": "git+https://github.com/jpnarkinsky/dix6.git"
   },
-  "author": "",
+  "author": "Patrick Narkinsky <patrick@narkinsky.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/.../.../issues"
+    "url": "https://github.com/jpnarkinsky/dix6/issues"
   },
-  "homepage": "https://github.com/.../...",
+  "homepage": "https://github.com/jpnarkinsky/dix6",
   "dependencies": {
-    "@babel/runtime": "7.20.7"
+    "@babel/runtime": "7.20.7",
+    "@types/node": "^22.10.7"
   },
   "devDependencies": {
     "typescript": "4.9.4"

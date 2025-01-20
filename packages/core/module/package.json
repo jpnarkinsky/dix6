@@ -1,4 +1,4 @@
 {
-  "main": "dist/typescript-library-template-core-module.cjs.js",
-  "module": "dist/typescript-library-template-core-module.esm.js"
+  "main": "dist/dix6-core-module.cjs.js",
+  "module": "dist/dix6-core-module.esm.js"
 }

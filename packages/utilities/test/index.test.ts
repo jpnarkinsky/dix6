@@ -1,5 +1,5 @@
+import { print } from '@dix6/utilities';
 import { afterEach, describe, expect, it, jest } from '@jest/globals';
-import { print } from '@typescript-library-template/utilities';
 
 afterEach(() => {
   jest.clearAllMocks();

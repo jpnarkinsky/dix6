@@ -1,0 +1,1 @@
+export { DiceCode } from './dicecode';

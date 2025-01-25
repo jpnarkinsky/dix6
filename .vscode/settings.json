@@ -1,5 +1,8 @@
 {
   "cSpell.words": [
     "dicecode"
-  ]
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
 }
